@@ -1,4 +1,4 @@
 # MD5 Hash | File name | Download link
 D41D8CD98F00B204E9800998ECF8427E | UccCheatBans | https://github.com/Ghosticollis/test11/blob/main/UccCheatBans.txt
 D41D8CD98F00B204E9800998ECF8427E | FreezzerCheatBans | https://github.com/Ghosticollis/test11/blob/main/FreezzerCheatBans.txt
-D41D8CD98F00B204E9800998ECF8427E | FreezzerCheatingAltBans | https://github.com/Ghosticollis/test11/blob/main/UFreezzerCheatingAltBans.txt
+D41D8CD98F00B204E9800998ECF8427E | FreezzerCheatingAltBans | https://github.com/Ghosticollis/test11/blob/main/FreezzerCheatingAltBans.txt
